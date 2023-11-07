@@ -9,7 +9,6 @@ I am a python developer looking for new challenges.
 * 🌍  I'm based in Medina Ohio
 * ✉️  You can contact me at [duenas.is@gmail.com](mailto:duenas.is@gmail.com)
 * 🤝  I'm open to collaborating on Python projects
-* ⚡  I'm a mortgage loan office
 
 ### Skills
 
